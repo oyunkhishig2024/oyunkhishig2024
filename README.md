@@ -74,8 +74,8 @@ If you find my work helpful, consider buying me a coffee!
 
 | Project | Description |
 |--------|-------------|
-| [🌐 Power Frequency LMS ](https://highrisktraininghub.com) | Vocational Training Platform |
-| [🧠 Power Platform](https://powerfrequency.io) | Native application for Oyu Tolgoi Training Department |
+| [🌐 Power Frequency LMS ](https://highrisktraininghub.com) | Vocational Training Center's LMS Platform, more than 1600 active users, used by 14 different contractor companies' employees of Oyu Tolgoi mine site |
+| [🧠 Power Platform](https://powerfrequency.io) | Native application for Oyu Tolgoi Training Department, Internal Testing & Apple Review has been done, soon will be deployed |
 
 
 ---
