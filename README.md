@@ -64,7 +64,7 @@ If you find my work helpful, consider buying me a coffee!
 <p align="center">
   <img src="https://img.shields.io/badge/JLPT-N2-brightgreen?style=for-the-badge&logo=google-translate&logoColor=white" />
   <img src="https://img.shields.io/badge/Project-Management-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Workplace%VOC Trainer-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Workplace%20VOC Trainer-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FrontEnd%20Developer-Certified-yellowgreen?style=for-the-badge" />
 </p>
 
