@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Former High Risk Trainer & Training Supervisor at GCR  🇲🇳🇦🇺🇿🇦
+- 💼 Former High Risk Trainer & Training Supervisor at Oyu Tolgoi and GCR  🇲🇳🇦🇺🇿🇦
 - 💡 Experience in managing HSE & High Risk training for Shaft Sinking Project.
 - 🌱 Studying JLPT N2 + MERN Stack Development 
 - 🌐 Building LMS app for Mongolian biggest mining company <img src="https://yt3.googleusercontent.com/aIw0N3rapySyySHUwtgPU0MSKBhrC_LszmNoG1pfLwHIzv-IRtxQ9-bkzzD7EPYuoe9qemBt4w=s160-c-k-c0x00ffffff-no-rj" 
@@ -17,7 +17,8 @@
      height="20" 
      style="vertical-align: middle;" />
 
-- 🎓 Graduated United States Air Force Academy & Australian College of Technology  
+- 🎓 Graduated United States Air Force Academy & Australian College of Technology
+-   🎓 Graduated Front-End Developer course at Erxes Academy. 
 
 ---
 
@@ -62,9 +63,9 @@ If you find my work helpful, consider buying me a coffee!
 
 <p align="center">
   <img src="https://img.shields.io/badge/JLPT-N2-brightgreen?style=for-the-badge&logo=google-translate&logoColor=white" />
-  <img src="https://img.shields.io/badge/MBA-Business-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mining%20Engineer-Bachelor-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-Certified-yellowgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-Management-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Certified%20VOC-Trainer-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FrontEnd%20Developer-Certified-yellowgreen?style=for-the-badge" />
 </p>
 
 ---
@@ -73,23 +74,8 @@ If you find my work helpful, consider buying me a coffee!
 
 | Project | Description |
 |--------|-------------|
-| [🌐 Kittokatsu.pro](https://kittokatsu.pro) | JLPT N1/N2 vocabulary learning for Mongolian speakers |
-| [🧠 Coding Platform](https://hellobraincode.com) | Online coding platform for Mongolians in Japan |
-| [🏗 Dynamic Homepage](https://baljir0901.github.io/homies-website/) | Construction company homepage built with React |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baljir0901&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baljir0901&layout=compact&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baljir0901&theme=tokyonight" />
-</p>
-
----
+| [🌐 Power Frequency LMS ](https://highrisktraininghub.com) | Vocational Training Platform |
+| [🧠 Power Platform](https://powerfrequency.io) | Native application for Oyu Tolgoi Training Department |
 
 
 ---
